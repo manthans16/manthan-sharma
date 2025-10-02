@@ -1,26 +1,25 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  
-Pre-doctoral research projects in **Generative AI** and **Medical Imaging**.  
-
+Projects in **Generative AI** and **Computer Vision**, with a focus on making models more data-efficient and practical.
 👯 **I’m looking to collaborate on:**  
 AI/ML research, Computer Vision, and Deep Learning projects.  
 
 🌱 **I’m currently learning:**  
-Advanced concepts in **Few-Shot Learning**, **Transformer Architectures**, and **Reinforcement Learning**.  
+How self-supervised transformers and generative models can bridge the annotation bottleneck in **clinical imaging**, while also diving into reinforcement learning for adaptive decision-making systems.  
 
 💬 **Ask me about:**  
 Machine Learning, Deep Learning, Computer Vision, Python, PyTorch, TensorFlow, and Research in AI.  
 
 ⚡ **Fun fact:**  
-I love blending AI research with real-world applications and sharing knowledge through projects & writing.  
+I love blending AI & ML research with real-world applications and sharing knowledge through projects & writing.  
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manthansharma1626) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/) 
+<!-- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/)  -->
+<!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/) -->
 
 
 # 💻 Tech Stack:
@@ -39,7 +38,7 @@ I love blending AI research with real-world applications and sharing knowledge t
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)  
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manthansharma1626&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manthansharma1626&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manthansharma1626&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -50,4 +49,4 @@ I love blending AI research with real-world applications and sharing knowledge t
 ---
 [![](https://visitcount.itsvg.in/api?id=manthansharma1626&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Profile README built with ❤️ -->
+ Profile README built with ❤️ -->
