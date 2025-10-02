@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  
-Projects in **Generative AI** and **Computer Vision**, with a focus on making models more data-efficient and practical.
+I am working on projects in Generative AI and Computer Vision, focusing on making models more data-efficient and practical.
+
+
 👯 **I’m looking to collaborate on:**  
 AI/ML research, Computer Vision, and Deep Learning projects.  
 
